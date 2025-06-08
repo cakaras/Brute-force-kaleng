@@ -79,13 +79,6 @@ Feel free to submit issues or pull requests for improvements like adding support
 
 ---
 
-## License
-
-This project is licensed under the MIT License.
-
----
-
-## Contact
 
 Created by a passionate security enthusiast. For questions or collaborations, open an issue or reach out on GitHub.
 
