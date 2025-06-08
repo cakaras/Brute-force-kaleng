@@ -15,12 +15,10 @@ A simple and powerful command-line pentest tool written in Python to discover hi
 - Works out-of-the-box on Linux terminals with Python 3.
 - Easy CLI interface with clear options.
 
----
 
-## Screenshot
 
 ```
-$ python3 bruteforce_path_finder.py -u https://example.com -w wordlist.txt -t 20
+$ python3 brute-force.py -u https://example.com -w wordlist.txt -t 20
 [+] Starting scan on https://example.com with 20 threads...
 [+] Loaded 1000 paths from wordlist
 [+] Found: https://example.com/admin (Status: 200)
